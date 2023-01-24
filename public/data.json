@@ -1,0 +1,42 @@
+[
+    {
+        "_id": 1,
+        "name": "R15",
+        "details": "",
+        "photo": "https://unsplash.com/photos/WN1VT_5Ww1E",
+        "prize": 120000,
+        "rating": ""
+    },
+    {
+        "_id": 2,
+        "name": "R15",
+        "details": "",
+        "photo": "https://unsplash.com/photos/WN1VT_5Ww1E",
+        "prize": 120000,
+        "rating": ""
+    },
+    {
+        "_id": 3,
+        "name": "R15",
+        "details": "",
+        "photo": "https://unsplash.com/photos/WN1VT_5Ww1E",
+        "prize": 120000,
+        "rating": ""
+    },
+    {
+        "_id": 4,
+        "name": "R15",
+        "details": "",
+        "photo": "https://unsplash.com/photos/WN1VT_5Ww1E",
+        "prize": 120000,
+        "rating": ""
+    },
+    {
+        "_id": 5,
+        "name": "R15",
+        "details": "",
+        "photo": "https://unsplash.com/photos/WN1VT_5Ww1E",
+        "prize": 120000,
+        "rating": ""
+    }
+]
